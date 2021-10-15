@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Ulak Communications](https://www.ulakhaberlesme.com.tr/index.php/en/)
 - 🌱 I’m currently learning Modern C++ concepts, UNIX/LINUX environment, Docker, CI/CD Tools
-- 📫 How to reach me: https://medium.com/@ozdinc-celikel
+- 📫 How to reach me: https://medium.com/@ozdinc-celikel, https://www.linkedin.com/in/ozdinccelikel
 
 
 <!--
