@@ -4,9 +4,12 @@
 - 🌱 I’m currently learning Modern C++ concepts, UNIX/LINUX philosophy, Docker, CI/CD practices
 - :abacus: &rarr; https://www.hackerrank.com/ozdinc_celikel1
 
+
+### How to reach me 💬
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ozdinccelikel)
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ozdinc-celikel)
+
 
 <!--
 Please have a look at:
