@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as 5G RAN Software Engineer on [Ulak Communications Inc](https://www.ulakhaberlesme.com.tr/index.php/en/)
 - 🌱 I’m currently learning Modern C++ concepts, UNIX/LINUX philosophy, Docker, CI/CD practices
 - :abacus: &rarr; https://www.hackerrank.com/ozdinc_celikel1
-- 💬 All the cheat sheets that I prepared -> [Cheat Sheet](https://readthedocsknowledgebase.readthedocs.io/en/latest/index.html)
+- 💬 All the cheat sheets that I prepared &rarr; [Cheat Sheet](https://readthedocsknowledgebase.readthedocs.io/en/latest/index.html)
 
 ### How to reach me 💬
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ozdinccelikel)
